@@ -9,7 +9,7 @@ you can use the DICE app in two way:
 2) download the DICE_application folder, open the DICE.mlapp (with MATLAB) and run it.
 
 The DICE.mlapp is the MATLAB-app file that can be modified. If you are able, feel free to download the DICE app and modify it according to your preferences/needs.
-To use the app you will need for the Computer Vision Toolbox of MATLAB
+To use the app you will need for the Computer Vision Toolbox and the Parallel Computing Toolbox of MATLAB
 
 The User Manual is coming soon.
 
