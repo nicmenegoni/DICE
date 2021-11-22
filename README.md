@@ -30,7 +30,9 @@ If you want to use your dataset, you must prepare these files and follow these s
 4) use a stereoplot software (e.g. Stereonet, https://www.rickallmendinger.net/stereonet; Dips, https://www.rocscience.com/software/dips; DIPANALYST, http://www.dipanalyst.com/) to recognize the main fracture sets and create an excel file containing the attitude (as dip and dip direction) and the set belonging for each fracture planes (the order must be the same of the previous excel file).
 5) create another excel file containing the mean attitude ( as Dip and Dip Direction) and the number of set for each fracture set.
 Please, consider having a look to the example dataset files and then produce yours similarly. N.B. the header of the excel files must be the same of the those used in the example dataset.
+
 Then, run the DICE app, use the buttons to load the previous prepared files and selected and use a sampling strategy (SEE BELOW):
+
 --------------3D SCANLINES---------------------
 Sample the scanline/s onto a 3D digital outcrop model using the same software used to sample the fractures. The scanline/s must be polyline/s composed by two points. Save each scanline as a single DXF file in a new empty folder.
 Launch the app, load the point cloud and fractures files. Then in the scanline panel load the folder where the scanline/s is/are stored. Then push calculate the discontinuity/fracture information and export them.
