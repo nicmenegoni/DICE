@@ -1,4 +1,8 @@
 # DICE
+__________________
+new version 1.1beta allows to perform separate analysis for the different fracture set and plot fracture orientation
+_________________
+
 Discontinuity Intensity Calculator and Estimator
 
 Hello everybody,
