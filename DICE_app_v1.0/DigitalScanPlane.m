@@ -129,7 +129,7 @@ figure(1)
 plungeRad=zeros(1,max(XYZNCloud(:,4)));
 for i=1 : max(XYZNCloud(:,4))%max(XYZNCloud(:,4)=number of planes
 %for n= 1, 2
-%[x, y, z,] = textread('/Users/niccolomenegoni/Desktop/DATI Windows/universit‡/Dottorato Pavia/DATI_PhD/Antola/St_280116/Stazione 3bis_new/lines/lines.txt', ...
+%[x, y, z,] = textread('/Users/niccolomenegoni/Desktop/DATI Windows/universit√†/Dottorato Pavia/DATI_PhD/Antola/St_280116/Stazione 3bis_new/lines/lines.txt', ...
 %'%f %f %f', 1)
  %St5
  clearvars xyztemp
